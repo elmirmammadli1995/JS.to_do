@@ -11,9 +11,11 @@ a:hover {
 }
 
 .box {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
   background-color: #9c6644;
   border-radius: 20px;
-  padding: 25px;
   height: 250px;
   width: 280px;
 }
@@ -21,4 +23,17 @@ a:hover {
   color: #ffffff;
   font-size: 40px;
   font-weight: 700;
+  margin-left: 80px;
+}
+.box .btn input {
+  width: 200px;
+  height: 55px;
+  border-radius: 20px;
+  margin: 20px 0;
+  font-size: 20px;
+}
+.box .btn h2 {
+  background-color: #ffffff;
+  font-size: 18px;
+  color: #242426;
 }/*# sourceMappingURL=style.css.map */
