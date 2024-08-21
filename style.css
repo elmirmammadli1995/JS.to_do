@@ -12,8 +12,8 @@ a:hover {
 
 .box {
   display: flex;
-  justify-content: center;
   flex-direction: column;
+  justify-content: center;
   background-color: #9c6644;
   border-radius: 20px;
   height: 250px;
@@ -23,7 +23,6 @@ a:hover {
   color: #ffffff;
   font-size: 40px;
   font-weight: 700;
-  margin-left: 80px;
 }
 .box input {
   width: 200px;
@@ -32,8 +31,13 @@ a:hover {
   margin: 20px 0;
   font-size: 20px;
 }
-.box .btn h2 {
+.box .btn {
   background-color: #ffffff;
-  font-size: 18px;
+  border-radius: 15px;
+  width: 70px;
+  height: 42px;
+}
+.box .btn h2 {
+  font-size: 17px;
   color: #242426;
 }/*# sourceMappingURL=style.css.map */
