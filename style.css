@@ -25,20 +25,24 @@ a:hover {
   font-size: 40px;
   font-weight: 700;
 }
-.box input {
+.box .minibox {
+  padding: 0 50px;
+}
+.box .minibox input {
   width: 200px;
   height: 55px;
   border-radius: 20px;
   margin: 23px 0;
   font-size: 20px;
 }
-.box .btn {
+.box .minibox .btn {
   background-color: #ffffff;
   border-radius: 19px;
   width: 70px;
   height: 42px;
+  margin-left: 60px;
 }
-.box .btn h2 {
+.box .minibox .btn h2 {
   font-size: 17px;
   color: #242426;
 }/*# sourceMappingURL=style.css.map */
