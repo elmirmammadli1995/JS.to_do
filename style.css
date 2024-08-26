@@ -25,24 +25,32 @@ a:hover {
   font-size: 40px;
   font-weight: 700;
 }
-.box .minibox {
+.box .monobox {
   padding: 0 50px;
 }
-.box .minibox input {
+.box .monobox input {
   width: 200px;
   height: 55px;
   border-radius: 20px;
   margin: 23px 0;
   font-size: 20px;
 }
-.box .minibox .btn {
+.box .monobox .btn {
   background-color: #ffffff;
   border-radius: 19px;
   width: 70px;
   height: 42px;
   margin-left: 60px;
 }
-.box .minibox .btn h2 {
+.box .monobox .btn p {
   font-size: 17px;
   color: #242426;
+}
+
+.minibox {
+  border: 3px solid #727d88;
+  border-radius: 20px;
+  width: 190px;
+  height: 48px;
+  margin-top: 50px;
 }/*# sourceMappingURL=style.css.map */
