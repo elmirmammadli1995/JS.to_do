@@ -25,32 +25,28 @@ a:hover {
   font-size: 40px;
   font-weight: 700;
 }
-.box .monobox {
-  padding: 0 50px;
-}
-.box .monobox input {
+.box input {
   width: 200px;
   height: 55px;
   border-radius: 20px;
   margin: 23px 0;
   font-size: 20px;
 }
-.box .monobox .btn {
+.box input .btn {
   background-color: #ffffff;
   border-radius: 19px;
   width: 70px;
   height: 42px;
   margin-left: 60px;
 }
-.box .monobox .btn p {
+.box input .btn p {
   font-size: 17px;
   color: #242426;
 }
 
-.minibox {
+.minibox h2 {
   border: 3px solid #727d88;
   border-radius: 20px;
-  width: 190px;
-  height: 48px;
+  width: 280px;
   margin-top: 50px;
 }/*# sourceMappingURL=style.css.map */
