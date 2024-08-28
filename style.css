@@ -32,21 +32,27 @@ a:hover {
   margin: 23px 0;
   font-size: 20px;
 }
-.box input .btn {
+.box .btn {
   background-color: #ffffff;
   border-radius: 19px;
-  width: 70px;
+  width: 80px;
   height: 42px;
-  margin-left: 60px;
 }
-.box input .btn p {
+.box .btn p {
   font-size: 17px;
   color: #242426;
 }
 
+.minibox {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 250px;
+  width: 280px;
+}
 .minibox h2 {
   border: 3px solid #727d88;
-  border-radius: 20px;
-  width: 280px;
-  margin-top: 50px;
+  border-radius: 25px;
+  width: 195px;
+  height: 48px;
 }/*# sourceMappingURL=style.css.map */
