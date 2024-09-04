@@ -58,5 +58,5 @@ a:hover {
   margin-bottom: 20px;
   padding: 10px 0;
   width: 200px;
-  height: 48px;
+  min-height: 48px;
 }/*# sourceMappingURL=style.css.map */
