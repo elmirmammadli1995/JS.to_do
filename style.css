@@ -10,7 +10,10 @@ a:hover {
   color: black;
 }
 
-.box {
+#doto {
+  padding: 80px;
+}
+#doto .box {
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -20,25 +23,25 @@ a:hover {
   height: 250px;
   width: 280px;
 }
-.box h1 {
+#doto h1 {
   color: #ffffff;
   font-size: 40px;
   font-weight: 700;
 }
-.box input {
+#doto input {
   width: 200px;
   height: 55px;
   border-radius: 20px;
   margin: 23px 0;
   font-size: 20px;
 }
-.box .btn {
+#doto .btn {
   background-color: #ffffff;
   border-radius: 19px;
   width: 80px;
   height: 42px;
 }
-.box .btn p {
+#doto .btn p {
   font-size: 17px;
   color: #242426;
 }
@@ -47,15 +50,16 @@ a:hover {
   display: flex;
   flex-direction: column;
   align-items: center;
-  width: 280px;
+  width: 230px;
+  padding: 25px;
+  min-height: 48px;
+  overflow-wrap: anywhere;
 }
 .minibox h2 {
   font-size: 22px;
-  text-align: center;
+  text-align: justify;
   border: 3px solid #727d88;
   border-radius: 25px;
   margin-bottom: 20px;
   padding: 10px 0;
-  width: 200px;
-  min-height: 48px;
 }/*# sourceMappingURL=style.css.map */
