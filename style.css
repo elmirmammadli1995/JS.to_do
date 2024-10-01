@@ -57,9 +57,10 @@ a:hover {
 }
 .minibox h2 {
   font-size: 22px;
-  text-align: justify;
+  text-align: center;
   border: 3px solid #727d88;
   border-radius: 25px;
   margin-bottom: 20px;
-  padding: 10px 0;
+  padding: 10px 15px;
+  width: 200px;
 }/*# sourceMappingURL=style.css.map */
