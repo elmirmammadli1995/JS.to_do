@@ -10,10 +10,10 @@ a:hover {
   color: black;
 }
 
-#doto {
+#todo {
   padding: 80px;
 }
-#doto .box {
+#todo .box {
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -23,25 +23,25 @@ a:hover {
   height: 250px;
   width: 280px;
 }
-#doto h1 {
+#todo h1 {
   color: #ffffff;
   font-size: 40px;
   font-weight: 700;
 }
-#doto input {
+#todo input {
   width: 200px;
   height: 55px;
   border-radius: 20px;
   margin: 23px 0;
   font-size: 20px;
 }
-#doto .btn {
+#todo .btn {
   background-color: #ffffff;
   border-radius: 19px;
   width: 80px;
   height: 42px;
 }
-#doto .btn p {
+#todo .btn p {
   font-size: 17px;
   color: #242426;
 }
