@@ -20,8 +20,8 @@ a:hover {
   align-items: center;
   background-color: #9c6644;
   border-radius: 23px;
-  height: 270px;
-  width: 290px;
+  height: 240px;
+  width: 250px;
 }
 #todo h1 {
   color: #ffffff;
@@ -29,8 +29,8 @@ a:hover {
   font-weight: 700;
 }
 #todo input {
-  width: 225px;
-  height: 58px;
+  width: 185px;
+  height: 49px;
   border-radius: 20px;
   margin: 23px 0;
   font-size: 20px;
@@ -38,11 +38,11 @@ a:hover {
 #todo .btn {
   background-color: #ffffff;
   border-radius: 19px;
-  width: 80px;
+  width: 70px;
   height: 42px;
 }
 #todo .btn p {
-  font-size: 17px;
+  font-size: 16px;
   color: #242426;
 }
 
