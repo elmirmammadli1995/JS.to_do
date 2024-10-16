@@ -11,5 +11,5 @@ $(document).ready(function () {
             v($('input').val());
         }
         $('input').val('');
-    });
+    })
 });
